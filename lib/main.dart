@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     SystemChrome.setSystemUIOverlayStyle(
         const SystemUiOverlayStyle(statusBarColor: Colors.transparent));
     return MaterialApp(
-      title: 'Flutter ToDo App',
+      title: 'Flutter Todo App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         fontFamily: 'Ubuntu',
