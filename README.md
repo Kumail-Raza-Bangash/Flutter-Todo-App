@@ -32,10 +32,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Feel free to customize this description according to your preferences and style. Good luck with your Todo App and happy coding!
 
 
-
-
-
-
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
