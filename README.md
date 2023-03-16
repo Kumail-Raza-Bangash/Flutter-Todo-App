@@ -33,7 +33,7 @@ This is a simple Todo App built using Flutter framework by Kumail Raza. The app 
 ## How to use
 To run the app on your local machine, follow these steps:
 
-1. Clone this repository: **git clone https://github.com/your-username/flutter-todo-app.git**
+1. Clone this repository: **git clone https://github.com/Kumail-Raza-Bangash/Flutter-Todo-App.git**
 2. Navigate to the project directory: **cd flutter-todo-app**
 3. Install dependencies: **flutter pub get**
 4. Run the app: **flutter run**
