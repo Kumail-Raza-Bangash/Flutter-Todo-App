@@ -2,14 +2,14 @@
 This is a simple Todo App built using Flutter framework by Kumail Raza. The app allows you to create and manage your daily tasks, keeping you organized and productive.
 
 ## Features
-- Searching 
+- Searching Task 
 - Mark tasks as completed
 - Add Task to Todo lists
+- Delete Task 
 
 ## Technologies used
 - Flutter 
 - Dart
-- Provider state management
 
 ## Screenshots
 ### Home Screen
